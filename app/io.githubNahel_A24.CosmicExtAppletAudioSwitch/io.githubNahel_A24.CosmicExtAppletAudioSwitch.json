@@ -44,7 +44,7 @@
         {
           "type": "git",
           "url": "https://github.com/Nahel-A24/cosmic-ext-applet-audio-switch.git",
-          "commit": "b013e2ca827a90975386afd288d3590aa47acbca"
+          "commit": "91d45eaa1a04be1b37f9b1819f7e0d9bfa8c45d3"
         },
         "cargo-sources.json"
       ]
